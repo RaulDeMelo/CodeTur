@@ -1,0 +1,14 @@
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.WebApi\bin\Debug\netcoreapp2.1\Senai.CodeTur.WebApi.deps.json
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.WebApi\bin\Debug\netcoreapp2.1\Senai.CodeTur.WebApi.runtimeconfig.json
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.WebApi\bin\Debug\netcoreapp2.1\Senai.CodeTur.WebApi.runtimeconfig.dev.json
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.WebApi\bin\Debug\netcoreapp2.1\Senai.CodeTur.WebApi.dll
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.WebApi\bin\Debug\netcoreapp2.1\Senai.CodeTur.WebApi.pdb
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.WebApi\obj\Debug\netcoreapp2.1\Senai.CodeTur.WebApi.csprojAssemblyReference.cache
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.WebApi\obj\Debug\netcoreapp2.1\Senai.CodeTur.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.WebApi\obj\Debug\netcoreapp2.1\Senai.CodeTur.WebApi.RazorAssemblyInfo.cache
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.WebApi\obj\Debug\netcoreapp2.1\Senai.CodeTur.WebApi.RazorAssemblyInfo.cs
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.WebApi\obj\Debug\netcoreapp2.1\Senai.CodeTur.WebApi.AssemblyInfoInputs.cache
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.WebApi\obj\Debug\netcoreapp2.1\Senai.CodeTur.WebApi.AssemblyInfo.cs
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.WebApi\obj\Debug\netcoreapp2.1\Senai.CodeTur.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.WebApi\obj\Debug\netcoreapp2.1\Senai.CodeTur.WebApi.dll
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.WebApi\obj\Debug\netcoreapp2.1\Senai.CodeTur.WebApi.pdb

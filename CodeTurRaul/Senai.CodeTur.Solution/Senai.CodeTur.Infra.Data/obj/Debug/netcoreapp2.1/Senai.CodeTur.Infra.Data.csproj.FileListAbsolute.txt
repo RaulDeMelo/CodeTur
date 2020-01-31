@@ -1,0 +1,10 @@
+C:\Users\45882646804\Documents\Henrique\1s2020-3T-Codetur\Projetos\CodeTurCerto\Senai.CodeTur.Solution\Senai.CodeTur.Infra.Data\bin\Debug\netcoreapp2.1\Senai.CodeTur.Infra.Data.deps.json
+C:\Users\45882646804\Documents\Henrique\1s2020-3T-Codetur\Projetos\CodeTurCerto\Senai.CodeTur.Solution\Senai.CodeTur.Infra.Data\bin\Debug\netcoreapp2.1\Senai.CodeTur.Infra.Data.dll
+C:\Users\45882646804\Documents\Henrique\1s2020-3T-Codetur\Projetos\CodeTurCerto\Senai.CodeTur.Solution\Senai.CodeTur.Infra.Data\obj\Debug\netcoreapp2.1\Senai.CodeTur.Infra.Data.csprojAssemblyReference.cache
+C:\Users\45882646804\Documents\Henrique\1s2020-3T-Codetur\Projetos\CodeTurCerto\Senai.CodeTur.Solution\Senai.CodeTur.Infra.Data\obj\Debug\netcoreapp2.1\Senai.CodeTur.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\45882646804\Documents\Henrique\1s2020-3T-Codetur\Projetos\CodeTurCerto\Senai.CodeTur.Solution\Senai.CodeTur.Infra.Data\obj\Debug\netcoreapp2.1\Senai.CodeTur.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\45882646804\Documents\Henrique\1s2020-3T-Codetur\Projetos\CodeTurCerto\Senai.CodeTur.Solution\Senai.CodeTur.Infra.Data\obj\Debug\netcoreapp2.1\Senai.CodeTur.Infra.Data.AssemblyInfo.cs
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.Infra.Data\obj\Debug\netcoreapp2.1\Senai.CodeTur.Infra.Data.csprojAssemblyReference.cache
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.Infra.Data\obj\Debug\netcoreapp2.1\Senai.CodeTur.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.Infra.Data\obj\Debug\netcoreapp2.1\Senai.CodeTur.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.Infra.Data\obj\Debug\netcoreapp2.1\Senai.CodeTur.Infra.Data.AssemblyInfo.cs

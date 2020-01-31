@@ -1,0 +1,4 @@
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.Dominio\obj\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.csprojAssemblyReference.cache
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.Dominio\obj\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.Dominio\obj\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.AssemblyInfoInputs.cache
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.Dominio\obj\Debug\netcoreapp2.1\Senai.CodeTur.Dominio.AssemblyInfo.cs

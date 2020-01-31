@@ -1,0 +1,4 @@
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.Teste.XUnit\obj\Debug\netcoreapp2.1\Senai.CodeTur.Teste.XUnit.csprojAssemblyReference.cache
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.Teste.XUnit\obj\Debug\netcoreapp2.1\Senai.CodeTur.Teste.XUnit.csproj.CoreCompileInputs.cache
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.Teste.XUnit\obj\Debug\netcoreapp2.1\Senai.CodeTur.Teste.XUnit.AssemblyInfoInputs.cache
+C:\Users\50503166855\Desktop\CodeTurRaul\Senai.CodeTur.Solution\Senai.CodeTur.Teste.XUnit\obj\Debug\netcoreapp2.1\Senai.CodeTur.Teste.XUnit.AssemblyInfo.cs
